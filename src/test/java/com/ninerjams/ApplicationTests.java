@@ -1,10 +1,10 @@
-package com.shangle.ninerjams;
+package com.ninerjams;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class NinerjamsApplicationTests {
+class ApplicationTests {
 
 	@Test
 	void contextLoads() {
